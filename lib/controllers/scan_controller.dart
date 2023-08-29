@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:camera/camera.dart';
 import 'package:get/state_manager.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:tflite/tflite.dart';
+// import 'package:tflite/tflite.dart';
 import 'dart:developer';
 
 class ScanController extends GetxController {
